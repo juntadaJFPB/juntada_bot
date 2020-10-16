@@ -1,0 +1,1 @@
+Copie a pasta AutoHotkey e cole no disco C:\\ para que o BOT funcione da maneira correta.
