@@ -716,7 +716,7 @@ def juntar_ars(nav_driver, base_dados_escolhida, lista_processos, token, id_rela
             )
         except TimeoutException:
             # algum erro quando assinou
-            print('Chegou)
+            print('Chegou')
         #          informar_erro(
         #         "Erro ao tentar assinar digitalmente",
         #         numero_do_processo,
